@@ -1,0 +1,11 @@
+---
+layout: posts.njk
+metaTitle: Writings
+metaDescription: Thoughts & things happened in my life.
+title: 文字 
+description: 生活中的事情和想法。
+templateEngineOverride: njk,md
+eleventyNavigation:
+  key: 文字.
+  order: 3
+---

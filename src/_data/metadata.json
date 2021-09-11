@@ -1,0 +1,27 @@
+{
+	"name": "baisheng",
+	"url": "https://baisheng.dev/",
+	"feed": {
+		"subtitle": "The personal and professional fullstack & developer, baisheng.",
+		"filename": "feed.xml",
+		"path": "/feed/feed.xml",
+		"id": "https://baisheng.dev/"
+	},
+	"jsonfeed": {
+		"path": "/feed/feed.json",
+		"url": "https://baisheng.dev/feed/feed.json"
+	},
+	"author": {
+		"name": "baisheng",
+		"email": "baisheng@gmail.com",
+		"url": "https://baisheng.dev/",
+		"avatar": "https://cdn.picker.cc/baisheng-avatar.png",
+		"mailtolink": "mailto:baisheng@gmail.com?subject=Request from baisheng.dev&body=一定要尽可能多地分享你想要实现的目标以及你有什么样的预算。"
+	},
+	"socials": {
+		"github": "https://github.com/baisheng",
+		"figma": "https://www.figma.com/@baisheng",
+		"linkedin": "https://linkedin.com/in/baisheng_dev",
+		"zcool": "https://baisheng.zcool.com.cn/"
+	}
+}

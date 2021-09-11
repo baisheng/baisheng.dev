@@ -1,0 +1,50 @@
+{
+	"services": [
+		{
+			"name": "Services",
+			"description": "我专注于以人为本的设计 human-centric design (HCD)和实际的设计实践，以实现持久的解决方案。它可以是从头开始的数字产品，也可以是现有产品的升级，以应对新的需求/市场。"
+		},
+		{
+			"name": "01. 品牌&标识",
+			"description": "一个强大的品牌对你的企业很重要，尤其是初创企业或中小企业，它可以扩大你的数字覆盖范围并与你的客户沟通。",
+			"tags": ["Style Exploration", "Visual Language", "Brand Guides"]
+		},
+		{
+			"name": "02. Web / App 设计",
+			"description": "我对大中型项目采用结构化设计流程。这个过程让我能够为复杂的想法建立原型，这些想法可以很容易地转化为完整的功能解决方案。",
+			"tags": [
+				"User Interfaces",
+				"Design Systems",
+				"Illustrations",
+				"Mobile Apps",
+				"Web Design",
+				"Digital Products"
+			]
+		},
+		{
+			"name": "03. 系统开发",
+			"description": "我总是确保项目是用最新的技术开发的，并且易于客户使用或维护。",
+			"tags": [
+				"前端开发",
+				"后端系统开发",
+				"小程序开发",
+				"NEST JS",
+				"Spring",
+				"Vue",
+				"Taro",
+				"Eleventy"
+			]
+		}
+	],
+	"featuredWorkTitle": "Featured Works",
+	"featuredWorkDescription": "多年来，我有幸与从初创企业到中小企业的客户合作，其中一些客户已经成功成长或被收购。以下是我参与的一些作品。",
+	"browseFullPortfolio": "Browse full portfolio",
+	"footerCreditLine1": "2021 © baisheng.",
+	"footerCreditLine2": "This site was designed in ",
+	"builtTools": {
+		"figma": "https://www.figma.com/",
+		"11ty": "https://www.11ty.dev/",
+		"tailwindcss": "https://tailwindcss.com/",
+		"deployed via Netlify": "https://www.netlify.com/"
+	}
+}
