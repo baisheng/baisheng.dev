@@ -48,7 +48,6 @@ eleventyConfig.setLibrary('md', markdownLibrary)
 5. score 4 x 100 in Google lighthouse.
 6. CSSnano (minify) ready.
 
-
 ### Installation
 
 1. Clone or download this repo and run `npm install`.
