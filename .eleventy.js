@@ -55,7 +55,6 @@ module.exports = function (eleventyConfig) {
 
 	// https://github.com/eeeps/eleventy-respimg
 	// eleventyConfig.cloudinaryCloudName = ''
-	// eleventyConfig.qiniuName = 'baisheng'
 	eleventyConfig.srcsetWidths = [
 		{ w: 400, v: 400 },
 		{ w: 600, v: 600 },
