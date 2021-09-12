@@ -30,13 +30,6 @@ date: 2019-12-30
 
 这套活动系统主要基于 Nodejs、Java 架构，
 
-### Branding
-
-Since this is a new product, there isn't much data that we can work with. We did our research by studying a few of our competitors. The goals are:
-
-- To create a logo that's easy to integrate into a banner
-- Easy to remember.
-
 </div>
 
 <div class="col-start-2 col-end-10">

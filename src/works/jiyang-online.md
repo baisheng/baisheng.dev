@@ -1,8 +1,8 @@
 ---
 metaTitle: 极养在线远程私教式营养咨询服务平台
-metaDescription: 这是一个为世界华人青年营养学者发展促进会（ICNYSN）定制的小程序会员系统
+metaDescription: 这是一个极养（上海）健康科技定制的一款，营养师客户服务系统
 title: 远程营养咨询服务平台
-description: 这是一个为中国营养青年会定制的小程序会员系统，包含会员注册、审核、会员证书功能
+description: 这是一个极养（上海）健康科技定制的一款，营养师客户服务系统，提供营养师与用户之间的私教服务，并提供一整套的营养膳食分析、诊断工具。
 projectUrl: 
 featuredImg: jiyang-online__featured
 bgColor: F4F4F3

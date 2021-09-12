@@ -29,6 +29,4 @@ date: 2018-07-28
 
 ### Happy Client, Happy Ending
 
-The startup [grows 300 Percent since 2016](http://www.prweb.com/releases/evercondo/condo_management/prweb14082070.htm 'rapid grow of EverCondo between 2016 and 2017'). I am so happy to learn that this startup has been [acquired in 2017](https://www.crunchbase.com/organization/evercondo 'Acquired by FRONTSTEPS').
-
 </div>
