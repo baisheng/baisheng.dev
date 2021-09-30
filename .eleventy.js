@@ -21,7 +21,7 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.setDataDeepMerge(true)
 
 	eleventyConfig.addShortcode('respimg', (path, alt, style) => {
-		const fetchBase = `https://baisheng.picker.cc/baisheng.dev`
+		const fetchBase = `https://data.picker.cc/baisheng.dev`
 		const src = `${fetchBase}/${path}.${eleventyConfig.format}?imageMogr2/interlace/1`
 		const srcset = eleventyConfig.srcsetWidths
 			.map(({ w, v }) => {
@@ -38,7 +38,7 @@ module.exports = function (eleventyConfig) {
 	})
 
 	eleventyConfig.addShortcode('figure', (path, alt, caption) => {
-		const fetchBase = `https://baisheng.picker.cc/baisheng.dev`
+		const fetchBase = `https://data.picker.cc/baisheng.dev`
 		const src = `${fetchBase}/${path}.${eleventyConfig.format}?imageMogr2/interlace/1`
 		const srcset = eleventyConfig.srcsetWidths
 			.map(({ w, v }) => {
